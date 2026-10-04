@@ -1,0 +1,81 @@
+- Id: 32100
+  AegisName: Absinthe_Token
+  Name: Absinthe Token
+  Type: Etc
+  Buy: 0
+  Sell: 1
+  Weight: 1
+
+- Id: 32101
+  AegisName: Absinthe_Fairy_Seal
+  Name: Absinthe Fairy Seal
+  Type: Etc
+  Buy: 0
+  Sell: 1
+  Weight: 1
+
+- Id: 32102
+  AegisName: Absinthe_Fairy_Box
+  Name: Absinthe Fairy Box
+  Type: Usable
+  Buy: 0
+  Sell: 0
+  Weight: 1
+  Script: |
+    callfunc "ABT_RandomCache",2;
+
+- Id: 32103
+  AegisName: Absinthe_Mini_Boss_Card_Album
+  Name: Absinthe Mini Boss Card Album
+  Type: Usable
+  Buy: 0
+  Sell: 0
+  Weight: 1
+  Script: |
+    callfunc "ABT_RollCard",1;
+
+- Id: 32104
+  AegisName: Absinthe_MVP_Card_Album
+  Name: Absinthe MVP Card Album
+  Type: Usable
+  Buy: 0
+  Sell: 0
+  Weight: 1
+  Script: |
+    callfunc "ABT_RollCard",2;
+
+- Id: 32105
+  AegisName: Philosopher_Stone_Fragment
+  Name: Philosopher's Stone Fragment
+  Type: Etc
+  Buy: 0
+  Sell: 250
+  Weight: 1
+
+- Id: 32106
+  AegisName: Philosopher_Stone
+  Name: Philosopher's Stone
+  Type: Etc
+  Buy: 0
+  Sell: 2500
+  Weight: 10
+
+- Id: 32107
+  AegisName: Sages_Stone_Cache
+  Name: Sage's Stone Cache
+  Type: Usable
+  Buy: 0
+  Sell: 0
+  Weight: 1
+  Script: |
+    callfunc "ABT_RandomCache",1;
+
+- Id: 32108
+  AegisName: Alchemical_Reliquary
+  Name: Alchemical Reliquary
+  Type: Usable
+  Buy: 0
+  Sell: 0
+  Weight: 1
+  Script: |
+    callfunc "ABT_RandomCache",3;

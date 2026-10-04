@@ -1,0 +1,25 @@
+// Merge these entries into the existing table; do not replace the whole file.
+32100#
+Currency earned from the Absinthe Tower and spent at the Absinthe Fairy.
+#
+32102#
+A small alchemical box containing a random tower reward.
+#
+32103#
+A card album that rolls a card from the configured Gilded mini-boss pool.
+#
+32104#
+A card album that rolls a card from the configured tower MVP pool.
+#
+32105#
+A fragment of the Philosopher's Stone.
+#
+32106#
+A rare completed Philosopher's Stone.
+#
+32107#
+A Sage's Stone cache with guaranteed material and a random bonus.
+#
+32108#
+A random alchemical reliquary from the tower crawl.
+#

@@ -1,0 +1,6 @@
+// Absinthe Tower constants are optional when using the numeric item-group IDs in
+// item_group_db.yml. If you prefer symbolic IDs, add a unique entry to db/const.txt:
+// IG_Absinthe_Reliquary 9000
+// IG_Absinthe_Sage_Cache 9001
+// IG_Absinthe_Fairy_Box 9002
+// Then replace 9000/9001/9002 in the item-group database and scripts with those constants.

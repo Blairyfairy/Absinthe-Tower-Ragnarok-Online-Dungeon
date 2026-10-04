@@ -1,0 +1,9 @@
+// Merge these rows into the existing table.
+32100#absinthe_token#
+32102#absinthe_fairy_box#
+32103#mini_boss_card_album#
+32104#mvp_card_album#
+32105#philosopher_stone_fragment#
+32106#philosopher_stone#
+32107#sages_stone_cache#
+32108#alchemical_reliquary#

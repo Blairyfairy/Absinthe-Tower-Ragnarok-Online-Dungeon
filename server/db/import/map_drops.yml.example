@@ -1,0 +1,7 @@
+Header:
+  Type: MAP_DROP_DB
+  Version: 2
+
+Body:
+  # The script already owns the dungeon-specific roll logic. This file is intentionally
+  # empty so drops are not duplicated by map-drop processing.

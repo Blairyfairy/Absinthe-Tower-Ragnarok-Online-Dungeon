@@ -1,0 +1,12 @@
+// LEGACY TEMPLATE ONLY
+// For old eAthena/eAthena-derived text item DBs. Validate column layout against your exact fork.
+// Modern rAthena should use server/db/import/item_db.yml instead.
+32100,Absinthe_Token,Absinthe Token,3,0,0,1,,,,,,,,,,,,,{},{},{}
+32101,Absinthe_Fairy_Seal,Absinthe Fairy Seal,3,0,0,1,,,,,,,,,,,,,{},{},{}
+32102,Absinthe_Fairy_Box,Absinthe Fairy Box,2,0,0,1,,,,,,,,,,,,,{callfunc "ABT_RandomCache",2},{},{}
+32103,Absinthe_Mini_Boss_Card_Album,Absinthe Mini Boss Card Album,2,0,0,1,,,,,,,,,,,,,{callfunc "ABT_RollCard",1},{},{}
+32104,Absinthe_MVP_Card_Album,Absinthe MVP Card Album,2,0,0,1,,,,,,,,,,,,,{callfunc "ABT_RollCard",2},{},{}
+32105,Philosopher_Stone_Fragment,Philosopher's Stone Fragment,3,0,250,1,,,,,,,,,,,,,{},{},{}
+32106,Philosopher_Stone,Philosopher's Stone,3,0,2500,10,,,,,,,,,,,,,{},{},{}
+32107,Sages_Stone_Cache,Sage's Stone Cache,2,0,0,1,,,,,,,,,,,,,{callfunc "ABT_RandomCache",1},{},{}
+32108,Alchemical_Reliquary,Alchemical Reliquary,2,0,0,1,,,,,,,,,,,,,{callfunc "ABT_RandomCache",3},{},{}

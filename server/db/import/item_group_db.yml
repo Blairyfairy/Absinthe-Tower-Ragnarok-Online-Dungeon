@@ -1,0 +1,121 @@
+- Group: 9000
+  SubGroups:
+    - SubGroup: 1
+      Algorithm: Random
+      List:
+        - Index: 0
+          Item: Philosopher_Stone_Fragment
+          Rate: 60
+          Amount: 2
+        - Index: 1
+          Item: Flame_Heart
+          Rate: 30
+          Amount: 1
+        - Index: 2
+          Item: Mystic_Frozen
+          Rate: 30
+          Amount: 1
+        - Index: 3
+          Item: Rough_Wind
+          Rate: 30
+          Amount: 1
+        - Index: 4
+          Item: Great_Nature
+          Rate: 30
+          Amount: 1
+        - Index: 5
+          Item: Enriched_Elunium
+          Rate: 15
+          Amount: 1
+        - Index: 6
+          Item: Enriched_Oridecon
+          Rate: 15
+          Amount: 1
+        - Index: 7
+          Item: Old_Blue_Box
+          Rate: 20
+          Amount: 1
+        - Index: 8
+          Item: Old_Purple_Box
+          Rate: 10
+          Amount: 1
+        - Index: 9
+          Item: Bloody_Branch
+          Rate: 3
+          Amount: 1
+        - Index: 10
+          Item: Old_Card_Album
+          Rate: 2
+          Amount: 1
+
+# Milestone cache: deterministic core materials + random bonus.
+- Group: 9001
+  SubGroups:
+    - SubGroup: 0
+      Algorithm: All
+      List:
+        - Index: 0
+          Item: Philosopher_Stone_Fragment
+          Amount: 2
+    - SubGroup: 1
+      Algorithm: Random
+      List:
+        - Index: 0
+          Item: Absinthe_Token
+          Rate: 40
+          Amount: 5
+        - Index: 1
+          Item: Enriched_Elunium
+          Rate: 15
+          Amount: 1
+        - Index: 2
+          Item: Enriched_Oridecon
+          Rate: 15
+          Amount: 1
+        - Index: 3
+          Item: Old_Blue_Box
+          Rate: 15
+          Amount: 1
+        - Index: 4
+          Item: Old_Purple_Box
+          Rate: 10
+          Amount: 1
+        - Index: 5
+          Item: Old_Card_Album
+          Rate: 5
+          Amount: 1
+
+# Fairy box: common progression materials with an occasional album/cache.
+- Group: 9002
+  SubGroups:
+    - SubGroup: 1
+      Algorithm: Random
+      List:
+        - Index: 0
+          Item: Absinthe_Token
+          Rate: 50
+          Amount: 3
+        - Index: 1
+          Item: Philosopher_Stone_Fragment
+          Rate: 30
+          Amount: 2
+        - Index: 2
+          Item: Flame_Heart
+          Rate: 10
+          Amount: 1
+        - Index: 3
+          Item: Mystic_Frozen
+          Rate: 10
+          Amount: 1
+        - Index: 4
+          Item: Rough_Wind
+          Rate: 10
+          Amount: 1
+        - Index: 5
+          Item: Great_Nature
+          Rate: 10
+          Amount: 1
+        - Index: 6
+          Item: Old_Card_Album
+          Rate: 2
+          Amount: 1

@@ -1,0 +1,7 @@
+// GM-side reload checklist (documentation only)
+// 1. @reloadscript
+// 2. @reloaditemdb
+// 3. If your build does not reload item groups with @reloaditemdb, restart map-server.
+// 4. Test @iteminfo 32103, @iteminfo 32104, @iteminfo 32108.
+// 5. Test @mobinfo 1002 and one MVP from the configured list.
+// 6. Enter the tower and verify BGM, floor progression, drops, and cleanup.

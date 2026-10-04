@@ -1,0 +1,9 @@
+// Merge these rows into your client's existing table.
+32100#Absinthe Token#
+32102#Absinthe Fairy Box#
+32103#Absinthe Mini Boss Card Album#
+32104#Absinthe MVP Card Album#
+32105#Philosopher's Stone Fragment#
+32106#Philosopher's Stone#
+32107#Sage's Stone Cache#
+32108#Alchemical Reliquary#
